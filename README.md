@@ -18,11 +18,4 @@ This project implements a vehicle and engine hierarchy in Java. The program cons
 - **Java Version:** Java 8 or higher
 - **Build Tool:** No external build tool (plain Java project)
 
-### How to Run:
-1. Clone this repository.
-2. Open the project in IntelliJ IDEA or Eclipse.
-3. Run the `Main` class.
-4. The output will display the characteristics of each vehicle.
 
-### License:
-This project is licensed under the MIT License.
